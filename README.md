@@ -137,21 +137,11 @@ Through this project I strengthened my knowledge in:
 - Technical documentation
 - Engineering software development using GAMS
 
-
 ## About Me
+Muhammad Ahmed
+M.Sc. Mechanical Engineering (Sustainable Energy Systems)
+Ruhr University Bochum
 
-I am currently pursuing a Masters in Mechanical Engineering with a specialization in Sustainable Energy Systems at Ruhr University Bochum.
-
-My interests include:
-
-- Energy System Modelling
-- Renewable Energy
-- Mathematical Optimization
-- Industrial Engineering
-- Data Analysis
-- Sustainable Technologies
-
-
-## License
-
-This repository is intended for educational and portfolio purposes.
+## Contact
+**GitHub:** https://github.com/engrahmed0
+**LinkedIn:** https://www.linkedin.com/in/muhammad-ahmed/
